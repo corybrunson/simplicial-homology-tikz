@@ -1,0 +1,12 @@
+# Mac metadata
+.DS_Store
+
+# TeX auxiliary files
+*.aux
+*.log
+*.nav
+*.out
+*.snm
+*.synctex.gz
+*.toc
+*.vrb
